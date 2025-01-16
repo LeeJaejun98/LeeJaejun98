@@ -51,6 +51,6 @@
 
 - 다양한 음식 레시피를 공유하고 탐색할 수 있는 스프링부트 웹 어플리케이션
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeeJaejun98&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
